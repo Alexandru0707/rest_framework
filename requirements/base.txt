@@ -4,3 +4,4 @@ djangorestframework-jwt==1.8.0
 PyJWT==1.4.2
 pytz==2018.5
 gunicorn==19.4
+whitenoise==3.2
