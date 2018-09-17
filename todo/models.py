@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
+from django.contrib.auth.models import User
+
 from django.db import models
 from django.utils import timezone
-from django.contrib.auth.models import User
 
 # Two-sequence containing the different possible
 # states of a todo item
